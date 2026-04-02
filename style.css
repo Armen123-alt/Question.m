@@ -1,0 +1,183 @@
+*{margin: 0;}
+
+img{width: 100%;}
+.miavor{height: 30px;width: 100px;background: blue;color: white;display: flex;justify-content: center;align-items: center;position: absolute;border-radius: 15px;top: 1%;left: 0.5%;}
+.bg{background-image: url("https://www.nhm.ac.uk/content/dam/nhm-www/discover/what-is-space/what-is-space-milky-way-full-width.jpg.thumb.1920.1920.png"
+      ); height:100vh;display: flex;justify-content: center;align-items: center;}
+
+.arm{color: white;font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;-webkit-text-stroke: 2px black}
+
+.arm3{color: white;display: flex;justify-content: center;}
+.arm4{height: 80px;width: 400px;margin-top: 5px;background: #020024;
+background: linear-gradient(90deg,rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 35%, rgba(9, 9, 121, 1) 100%);;border: none;font-size: 30px;color: white;border-radius: 10px;cursor: pointer;}
+.arm4:hover{background: #020024;
+background: radial-gradient(circle,rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 35%, rgba(0, 212, 255, 1) 100%);}
+
+
+
+.bg1{background-image: url("https://mediamag.am/wp-content/uploads/2017/01/maxresdefault-3.jpg"
+      ); height:100vh;display: flex;justify-content: center;align-items: center;display: none;background-position: ce;}
+
+.ar1{color: white;font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;-webkit-text-stroke: 2px black}
+
+.arm31{color: white;display: flex;justify-content: center;}
+.arm41{height: 80px;width: 400px;margin-top: 5px;background: #020024;
+background: #020024;
+background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(135, 1, 82, 1) 35%, rgba(0, 212, 255, 1) 100%);;border: none;font-size: 30px;color: white;border-radius: 10px;cursor: pointer;}
+.arm41:hover{background: #020024;
+background: radial-gradient(circle,rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 35%, rgba(0, 212, 255, 1) 100%);}
+
+
+
+
+.bg2{background-image: url("https://i0.wp.com/calmatters.org/wp-content/uploads/2021/08/math-curriculum.jpg?fit=1200%2C900&ssl=1"
+      ); height:100vh;display: flex;justify-content: center;align-items: center;display: none;;}
+
+.ar2{color: white;font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;-webkit-text-stroke: 2px black;
+}
+
+.arm32{color: white;display: flex;justify-content: center;}
+.arm42{height: 80px;width: 400px;margin-top: 5px;background: #020024;
+background: #000000;
+background: radial-gradient(circle, rgba(0, 0, 0, 1) 0%, rgba(9, 9, 121, 1) 50%, rgba(0, 0, 0, 1) 100%);;border: none;font-size: 30px;color: white;border-radius: 10px;cursor: pointer;}
+.arm42:hover{background: #020024;
+background: radial-gradient(circle,rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 35%, rgba(0, 212, 255, 1) 100%);}
+
+
+
+.bg3{background-image: url("https://www.odu.edu/sites/default/files/program-page/headerimages/mathematics-heaader.jpeg"
+      ); height:100vh;display: flex;justify-content: center;align-items: center;display: none;background-position: center;}
+
+.ar3{color: white;font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;-webkit-text-stroke: 2px black;text-align: center;
+}
+
+.arm33{color: white;display: flex;justify-content: center;}
+.arm43{height: 80px;width: 400px;margin-top: 5px;background: #020024;
+background: #000000;
+background: radial-gradient(circle, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 255, 1) 50%, rgba(0, 0, 0, 1) 100%);;border: none;font-size: 30px;color: white;border-radius: 10px;cursor: pointer;}
+.arm43:hover{background: #020024;
+background: radial-gradient(circle,rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 35%, rgba(0, 212, 255, 1) 100%);}
+
+
+
+
+
+.bg4{background-image: url("https://maple4.ru/assets/img/resourceimages/589/stoletniavoina5.jpg"
+      ); height:100vh;display: flex;justify-content: center;align-items: center;display: none;background-position: center;}
+
+.ar4{color: white;font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;-webkit-text-stroke: 2px black;text-align: center;
+}
+
+.arm34{color: white;display: flex;justify-content: center;}
+.arm44{height: 80px;width: 400px;margin-top: 5px;background: #020024;
+background: #000000;
+background: radial-gradient(circle, rgba(0, 0, 0, 1) 0%, rgba(136, 0, 255, 1) 50%, rgba(0, 0, 0, 1) 100%);;border: none;font-size: 30px;color: white;border-radius: 10px;cursor: pointer;}
+.arm44:hover{background: #000000;
+background: linear-gradient(90deg, rgba(0, 0, 0, 1) 0%, rgba(136, 0, 255, 1) 50%, rgba(0, 0, 0, 1) 100%);}
+
+
+
+.bg5{background-image: url("https://tlt.ru/wp-content/uploads/2023/03/1647644330_2-amiel-club-p-fizika-krasivie-kartinki-2.jpg"
+      ); height:100vh;display: flex;justify-content: center;align-items: center;display: none;background-position: center;}
+
+.ar5{color: white;font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;-webkit-text-stroke: 2px black;text-align: center;
+}
+
+.arm35{color: white;display: flex;justify-content: center;}
+.arm45{height: 80px;width: 400px;margin-top: 5px;background: #000000;
+background: radial-gradient(circle, rgba(0, 0, 0, 1) 0%, rgba(255, 0, 0, 1) 50%, rgba(0, 0, 0, 1) 100%);;border: none;font-size: 30px;color: white;border-radius: 10px;cursor: pointer;}
+.arm45:hover{background: #000000;
+background: linear-gradient(90deg, rgba(0, 0, 0, 1) 0%, rgba(255, 0, 0, 1) 100%, rgba(0, 0, 0, 1) 100%);}
+
+
+
+
+.bg6{background-image: url("https://annamap.ru/evropa/evropa-karta.jpg"
+      ); height:100vh;display: flex;justify-content: center;align-items: center;display: none;background-position: center;}
+
+.ar6{color: white;font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;-webkit-text-stroke: 2px black;text-align: center;
+}
+
+.arm36{color: white;display: flex;justify-content: center;}
+.arm46{height: 80px;width: 400px;margin-top: 5px;background: #000291;
+background: linear-gradient(90deg, rgba(0, 2, 145, 1) 0%, rgba(0, 0, 0, 1) 50%, rgba(237, 0, 0, 1) 100%);;border: none;font-size: 30px;color: white;border-radius: 10px;cursor: pointer;}
+.arm46:hover{background: #ff0000;
+background: radial-gradient(circle, rgba(255, 0, 0, 1) 0%, rgba(10, 1, 1, 1) 100%);}
+
+
+
+
+.bg7{background-image: url("https://www.museumofplay.org/app/uploads/2021/09/Chess-sq.jpg"
+      ); height:100vh;display: flex;justify-content: center;align-items: center;display: none;background-position: center;}
+
+.ar7{color: white;font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;-webkit-text-stroke: 2px black;text-align: center;
+}
+.arm27{display: flex;}
+.arm37{color: white;display: flex;justify-content: center;}
+.arm47{height: 80px;width: 400px;margin-top: 5px;background: #ffffff;
+background: linear-gradient(90deg, rgba(255, 255, 255, 1) 0%, rgba(0, 0, 0, 1) 100%);;border: none;font-size: 30px;color: white;border-radius: 10px;cursor: pointer;}
+.arm47:hover{background: #ffffff;
+background: radial-gradient(circle, rgba(255, 255, 255, 1) 0%, rgba(0, 0, 0, 1) 100%);color: black;}
+
+.arm39{margin-left: 10px;}
+.arm38{margin-right: 10px;}
+
+
+
+
+
+.bg8{background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D0%B5%D0%BB%D0%B5%D1%84%D0%BE%D0%BD_%D0%A2%D0%90-68_%D0%B1%D0%B5%D0%B7_%D0%BD%D0%BE%D0%BC%D0%B5%D1%80%D0%BE%D0%BD%D0%B0%D0%B1%D0%B8%D1%80%D0%B0%D1%82%D0%B5%D0%BB%D1%8F_%28%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD_%D1%81%D0%B0%D0%BC%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%29.JPG/2560px-%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D0%B5%D0%BB%D0%B5%D1%84%D0%BE%D0%BD_%D0%A2%D0%90-68_%D0%B1%D0%B5%D0%B7_%D0%BD%D0%BE%D0%BC%D0%B5%D1%80%D0%BE%D0%BD%D0%B0%D0%B1%D0%B8%D1%80%D0%B0%D1%82%D0%B5%D0%BB%D1%8F_%28%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD_%D1%81%D0%B0%D0%BC%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%29.JPG"
+      ); height:100vh;display: flex;justify-content: center;align-items: center;display: none;background-position: center;}
+
+.ar8{color: white;font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;-webkit-text-stroke: 2px black;text-align: center;
+}
+.arm28{display: flex;}
+.arm37a{color: white;display: flex;justify-content: center;}
+.arm48{height: 80px;width: 400px;margin-top: 5px;background: #020024;
+background: linear-gradient(90deg,rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 35%, rgba(9, 9, 121, 1) 100%);;border: none;font-size: 30px;color: white;border-radius: 10px;cursor: pointer;}
+.arm48:hover{background: #020024;
+background: radial-gradient(circle,rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 35%, rgba(0, 212, 255, 1) 100%);}
+
+.arm39{margin-left: 10px;}
+.arm38{margin-right: 10px;}
+
+
+
+
+.bg9{background-image: url("https://www.shutterstock.com/shutterstock/photos/120530032/display_1500/stock-vector-seamless-math-elements-on-school-board-120530032.jpg"
+      ); height:100vh;display: flex;justify-content: center;align-items: center;display: none;background-position: center;}
+
+.ar9{color: white;font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;-webkit-text-stroke: 2px black;text-align: center;
+}
+.arm29{display: flex;}
+.arm37ab{color: white;display: flex;justify-content: center;}
+.arm49{height: 80px;width: 400px;margin-top: 5px;background: #020024;
+background: linear-gradient(90deg,rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 35%, rgba(9, 9, 121, 1) 100%);;border: none;font-size: 30px;color: white;border-radius: 10px;cursor: pointer;}
+.arm49:hover{background: #020024;
+background: radial-gradient(circle,rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 35%, rgba(0, 212, 255, 1) 100%);}
+
+.arm39{margin-left: 10px;}
+.arm38{margin-right: 10px;}
+
+
+
+
+
+@media only screen and (max-width: 600px){
+.arm27{display: flex;justify-content: center;}
+.arm47{width: 200px;}
+.arm28{display: flex;justify-content: center;}
+.arm48{width: 200px;font-size: 20px;}
+.arm29{display: flex;justify-content: center;}
+.arm49{width: 200px;}
+.ar9{font-size: 30px;}
+
+      
+}
+
+
+                                                 
+
+
+
+                                                 
